@@ -1,4 +1,4 @@
-### Hi there 👋
+ ### Hi there 👋
 
 I am based in Orange County, California.
 An aspiring Software Engineer, Web Developer, and Game Developer. 
@@ -15,7 +15,10 @@ You can find me on
 ---
 I have learned 
 ```
-
+Front End: JavaScript | TypeScript | HTML | CSS | React
+Back End: ExpressJS | NodeJS | PostgreSQL | Java | C++ | Python
+Deployment: AWS | Github
+Design: DBDiagram | Figma
 ```
 <!--
 **t-doan/t-doan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
