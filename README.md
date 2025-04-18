@@ -1,6 +1,7 @@
  ### Hi there 👋
 
 I am based in San Diego, California.
+
 A Software Engineer, Web Developer, and Game Developer in the making.
 
 I am currently working myself through learning Python.
